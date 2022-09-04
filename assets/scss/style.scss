@@ -1,0 +1,30 @@
+/*
+Template Name: Portfolio 
+Version: 01
+Author: Jahidul Islam (Web Demon)
+GitHub: https://github.com/jahid-sourav
+Dev Community: https://dev.to/webdemon 
+Facebook: https://www.facebook.com/thewebdemon
+*/
+@import 'variables';
+@import'typography';
+@import'default';
+
+// Template Style Starts Here
+// Components
+@import 'template/component';
+
+// Pages
+@import 'template/pages/home';
+@import 'template/pages/about';
+@import 'template/pages/service';
+@import 'template/pages/portfolio';
+@import 'template/pages/portfolioDetail';
+@import 'template/pages/resource';
+@import 'template/pages/blog';
+@import 'template/pages/blogDetail';
+@import 'template/pages/contact';
+
+// Responsive
+@import 'template/responsive';
+// Template Style Ends Here
